@@ -1,0 +1,29 @@
+Variable,Diff-in-diff estimate:,DD Comparison,Weight,Avg DD Estimate
+Assets,420.329,Earlier T vs. Later C,0.031,775.415
+,,Later T vs. Earlier C,0.097,547.175
+,,T vs. Never treated,0.203,118.587
+,,T vs. Already treated,0.669,477.244
+Land,0.003,Earlier T vs. Later C,0.031,0.068
+,,Later T vs. Earlier C,0.098,0.027
+,,T vs. Never treated,0.201,0.002
+,,T vs. Already treated,0.67,-0.003
+Amenities,-0.05,Earlier T vs. Later C,0.03,-0.05
+,,Later T vs. Earlier C,0.091,-0.024
+,,T vs. Never treated,0.2,-0.042
+,,T vs. Already treated,0.68,-0.055
+Earnings,-0.035,Earlier T vs. Later C,0.03,-1.652
+,,Later T vs. Earlier C,0.097,-3.25
+,,T vs. Never treated,0.21,-2.459
+,,T vs. Already treated,0.662,1.278
+HH-Business,-0.052,Earlier T vs. Later C,0.03,-0.078
+,,Later T vs. Earlier C,0.097,-0.073
+,,T vs. Never treated,0.21,-0.071
+,,T vs. Already treated,0.662,-0.041
+Food Index,0.037,Earlier T vs. Later C,0.03,0.179
+,,Later T vs. Earlier C,0.096,0.189
+,,T vs. Never treated,0.21,-0.039
+,,T vs. Already treated,0.664,0.033
+Bulk Purchase,0.001,Earlier T vs. Later C,0.03,-0.013
+,,Later T vs. Earlier C,0.097,0.008
+,,T vs. Never treated,0.21,0.008
+,,T vs. Already treated,0.662,-0.002
